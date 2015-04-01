@@ -1,0 +1,7 @@
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTFS\bin\Debug\examplesFS.XML
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTFS\bin\Debug\TTTFS.dll
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTFS\bin\Debug\TTTFS.pdb
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTFS\bin\Debug\FSharp.Core.dll
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTFS\bin\Debug\FSharp.Core.xml
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTFS\obj\Debug\TTTFS.dll
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTFS\obj\Debug\TTTFS.pdb

@@ -1,0 +1,4 @@
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTCS\bin\Debug\TTTCS.dll
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTCS\bin\Debug\TTTCS.pdb
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTCS\obj\Debug\TTTCS.dll
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTCS\obj\Debug\TTTCS.pdb

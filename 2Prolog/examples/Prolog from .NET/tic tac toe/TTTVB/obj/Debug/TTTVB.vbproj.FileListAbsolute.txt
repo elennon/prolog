@@ -1,0 +1,8 @@
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTVB\bin\Debug\TTTVB.dll
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTVB\bin\Debug\TTTVB.pdb
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTVB\bin\Debug\TTTVB.xml
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTVB\obj\Debug\TTTVB.Resources.resources
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTVB\obj\Debug\TTTVB.vbproj.GenerateResource.Cache
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTVB\obj\Debug\TTTVB.dll
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTVB\obj\Debug\TTTVB.xml
+C:\Users\ed\Documents\Prolog\New folder\examples\Prolog from .NET\tic tac toe\TTTVB\obj\Debug\TTTVB.pdb
