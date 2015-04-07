@@ -1,0 +1,18 @@
+:- dynamic user/1.
+
+user(user1).
+user(user2).
+user(user3).
+user(joe).
+
+:- dynamic song/1.
+
+
+:- dynamic likes/2.
+
+likes(user1, ['1878', '1879', '1894']).
+likes(user2, ['1878', '1931']).
+likes(user3, ['1878', '1925']).
+likes(joe, ['1878', '1925']).
+
+[]

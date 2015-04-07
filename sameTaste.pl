@@ -9,10 +9,9 @@ clear :-
 	retractall(song(_)),
 	retractall(likes(_,_)).
 
-run(Users, N, Mytracks) :-
+fillDb(Users) :-
 	clear,
-	assa_users(Users),
-	same_taste(Mytracks, N).
+	assa_users(Users),!.
 
 assa_users([]).
 assa_users([[H|[M]]|T]) :-
@@ -20,12 +19,19 @@ assa_users([[H|[M]]|T]) :-
 	assert(likes(H, M)),
 	assa_users(T).
 
+
+run(Users, N, Mytracks) :-
+	clear,
+	assa_users(Users),
+	same_taste(Mytracks, N),!.
+
 same_taste(Mytracks, N) :-
 	findall(Trks, (likes(_, Trks),checkk(Mytracks, N, Trks)) ,Lst),
 	flatten(Lst, List),
 	compress(List, L),
 	findall(X, (member(X, L), \+member(X, Mytracks)), Result),
-	write(Result).
+	compress(Result, Result2),
+	write(Result2),!.
 
 checkk(Mytracks, N, L1) :-
 	inter(Mytracks, L1, Rl),
